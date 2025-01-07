@@ -1,5 +1,5 @@
 V3.1.1
-
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/912327393/739a90dc-362b-4b07-83c6-1148243cb3e2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250107T032919Z&X-Amz-Expires=300&X-Amz-Signature=9a75f4f689ebc9e60eea5b68b392122aae61e290c5339ac781b2efbea1d14f2d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DRoyalClassroom.exe&response-content-type=application%2Foctet-stream
 更新内容：
 1、调整了文件系统的策略，启动时不再需要管理员权限
 2、优化了部分界面的外观
