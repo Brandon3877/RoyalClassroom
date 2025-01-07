@@ -1,0 +1,1 @@
+This is the Royal Classroom project. It is free to use. If you hope to download and use it, please head to the Release and download the msi file from there. Do not download the exe file directly, otherwise some functions will not function properly.
