@@ -1,4 +1,4 @@
-V3.1.1
+V3.1.2
 https://download-obs.cowcs.com/cowtransfer/cowtransfer/17363/14a9ae4741d5409ba2c5b90894998807.file?auth_key=1738242416-bd2dfccb68f54090bf446747d6bfad14-0-8517f16017978849037573c7e2e02021&biz_type=1&business_code=COW_TRANSFER&channel_code=COW_CN_WEB&response-content-disposition=attachment%3B%20filename%3DKingClassroom.file%3Bfilename*%3Dutf-8%27%27KingClassroom.file&user_id=1030973382178617363&x-verify=1
 1、调整了文件系统的策略，启动时不再需要管理员权限
 2、优化了部分界面的外观
